@@ -1,10 +1,10 @@
 import React from 'react';
-import './../App.css'
+import cast from './Nav1.Module.css'
 
 const Nav1 = () => {
     return (
         <div>
-            <nav className='Nav1'>
+            <nav className={cast.Nav1}>
                 <div>
                     <a> Profile </a>
                 </div>

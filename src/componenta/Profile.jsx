@@ -1,5 +1,4 @@
 import React from "react"
-import './../App.css'
 import cast from './Profile.Module.css'
 
 const Profile = () => {
@@ -17,10 +16,10 @@ const Profile = () => {
                     New Post
                 </div>
                 <div>
-                    <div>
+                    <div className={cast.item}>
                         Post 1
                     </div>
-                    <div>
+                    <div className={cast.item}>
                         Post 2
                     </div>
                 </div>
