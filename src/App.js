@@ -12,7 +12,6 @@ const App = () => {
             <Nav1 />
             <Profile />
         </div>
-
     )
 }
 
