@@ -5,7 +5,7 @@ const Nav1 = () => {
     return (
         <div>
             <nav className={cast.Nav1}>
-                <div>
+                <div className={cast.item}>
                     <a> Profile </a>
                 </div>
                 <div>
