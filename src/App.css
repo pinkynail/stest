@@ -9,25 +9,9 @@
 
 }
 
-.head {
-    grid-area: h;
-    background-color: bisque;
-}
-
-.head img {
-    width: 20px;
-}
 
 .Nav1 {
     grid-area: n;
     background-color: blanchedalmond;
 }
 
-.profile {
-    grid-area: p;
-    background-color: burlywood;
-}
-
-.profile img {
-    width: 700px;
-}
