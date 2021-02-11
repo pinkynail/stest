@@ -1,5 +1,4 @@
 import React from "react"
-import './../App.css'
 import cast from './Profile.Module.css'
 
 const Profile = () => {
