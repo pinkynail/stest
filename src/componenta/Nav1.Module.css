@@ -7,3 +7,7 @@
     color: aqua;
 }
 
+.item.active {
+    color: darkviolet;
+}
+

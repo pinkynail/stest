@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import cast from './Nav1.Module.css'
 
 const Nav1 = () => {
@@ -11,7 +11,7 @@ const Nav1 = () => {
                 <div className={cast.item}>
                     <a> Messages </a>
                 </div>
-                <div className={cast.item}>
+                <div className={`${cast.item} ${cast.active}`}>
                     <a> News </a>
                 </div>
                 <div className={cast.item}>
