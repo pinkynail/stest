@@ -8,16 +8,16 @@ const Nav1 = () => {
                 <div className={cast.item}>
                     <a> Profile </a>
                 </div>
-                <div>
+                <div className={cast.item}>
                     <a> Messages </a>
                 </div>
-                <div>
+                <div className={cast.item}>
                     <a> News </a>
                 </div>
-                <div>
+                <div className={cast.item}>
                     <a> Music </a>
                 </div>
-                <div>
+                <div className={cast.item}>
                     <a> Settings </a>
                 </div>
             </nav>
